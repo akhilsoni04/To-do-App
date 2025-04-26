@@ -8,16 +8,10 @@ A minimalistic ToDo web app to add, complete, and manage your daily tasks easily
 - Delete tasks
 - Simple, clean, design
 
-## 🌐 Live Demo
-🔗 [View Live Demo](#)
-
 ## 🛠️ Tech Stack
 - HTML
 - CSS
 - JavaScript
-
-## 📷 Screenshot
-![Todo App Screenshot](screenshot.png) 
 
 ## 📁 How to Run Locally
 1. Clone the repo
